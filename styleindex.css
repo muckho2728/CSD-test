@@ -1,0 +1,68 @@
+/* content header*/
+.header_content {
+    display: flex;
+    justify-content: space-between;
+    align-items: end;
+    margin-bottom: 10px;
+}
+.header_sologan{
+    color: red;
+    font-size: 20px;
+    font-style: italic;
+    
+}
+.header_left{
+   margin-left: 10%;
+}
+.header_right{
+    width: 20%;
+}
+.header_center img{
+    width: 60%;
+}
+/*navbar*/
+
+#navbar_menu{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+.text_blue{
+    color: #0EC0C3;
+}
+.text_center{
+    text-align: center;
+}
+.body_img_80{
+    width: 60%;
+    margin-right: -20px;
+    
+}
+.body_img{
+    width: 60%;
+}
+.airbalde img{
+    margin-bottom: 10px;
+}
+.body_img_70{
+    width: 70%;
+}
+#bestseller{
+    display: flex;
+    justify-content: center;
+    
+}
+#bestseller img{
+    width: 60%;
+    height: 60%;
+
+}
+.img_footer{
+    width: 100%;
+}
+.lefooter{
+    color: white;
+    background-color: #0EC0C3;
+    text-align: center;
+    padding-top: 10px ;
+}
